@@ -9,9 +9,10 @@ export default function Home() {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>My name is Michael Dave Sicat, and im 20 years old living at San Luis Pampanga. I love playing mobile games and basketball. I'm a third-year student taking up a Bachelor of Science in Information Technology (BSIT-3A) at the University of the Assumption. </p>
+        <p>My name is Michael Dave Sicat, and im 20 years old living at San Luis Pampanga. I love playing mobile games and basketball. I'm a third-year student taking up a Bachelor of Science in Information Technology (BSIT-3A) at the University of the Assumption. My favorite food is tocino and fried rice. In five years, I see myself as a highly paid, top-level software engineer. Also i love to learn new things to further improve my skills and develop more skills</p>
         <p>
-          My favorite food is tocino and fried rice. In five years, I see myself as a highly paid, top-level software engineer. Also i love to learn new things to further improve my skills and develop more skills
+          (This is a sample website - you’ll be building a site like this on{' '}
+          <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
         </p>
       </section>
     </Layout>
